@@ -4,7 +4,7 @@ A design-forward concept UI for PCB analysis. Paste a bill of
 materials, get DRC/ERC heuristics, IPC-7351 footprint suggestions,
 and an interactive photolithography sandbox.
 
-**🔗 Live demo:** https://kdspacex75.github.io/ohmni
+**🔗 Live demo:** https://kdspacex75.github.io/ohmni/
 
 ![hero](screenshots/hero.png)
 
